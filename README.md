@@ -23,7 +23,7 @@ Hey, I'm Astra-devloper, a Discord Bot Developer.
 
 -------------
 
-## DISCORD STATUS
+## MY DISCORD STATUS
 
 ![Discord](https://discord.c99.nl/widget/theme-6/433227453637328897.png)
 
