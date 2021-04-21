@@ -4,13 +4,13 @@
 </div>  
   
 
-### <div align="center">I'm Tomato, a full-time full-stack developer 👨‍💻 working peacefully since 2017 🚀</div>  
+### <div align="center">I'm Astra, a half+time Discord Bot developer  🚀</div>  
   
 
-- 🔭 I’m currently working on a music app.  
+- 🔭 I’m currently working on a Discord music Bot.  
   
 
-- 🌱 I’m currently coding in Javascript and C#.  
+- 🌱 I’m currently coding in Javascript and Python.  
   
 
 - ❓  I am in love with coding Discord Bots, I also love helping!.
@@ -22,7 +22,7 @@
 <br/>
 
 
-Hey, I'm Astra-devloper, a Discord Bot Developer.
+
 
 
 -------------------
