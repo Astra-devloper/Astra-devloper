@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Astra, a half+time Discord Bot developer  🚀</div>  
+### <div align="center">I'm Astra, a half-time Discord Bot developer  🚀</div>  
   
 
 - 🔭 I’m currently working on a Discord music Bot 👨‍💻.  
