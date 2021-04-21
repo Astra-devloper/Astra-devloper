@@ -28,7 +28,7 @@
 -------------------
 
 
- **Information:**
+### **Information:**
 
 - 🔭 I’m currently working on  **Discord Bots,tools and games**
 - 🌱 I’m currently learning  **Javascript**
@@ -41,14 +41,14 @@
 
 -------------
 
-## MY DISCORD STATUS
+### MY DISCORD STATUS
 
 ![Discord](https://discord.c99.nl/widget/theme-6/433227453637328897.png)
 
 -------------
 
 
-**Stats:**  
+### **Stats:**  
 
 
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Astra-devloper&theme=dracula&count_private=true"></div>
