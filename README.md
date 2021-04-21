@@ -7,13 +7,13 @@
 ### <div align="center">I'm Astra, a half+time Discord Bot developer  🚀</div>  
   
 
-- 🔭 I’m currently working on a Discord music Bot.  
+- 🔭 I’m currently working on a Discord music Bot 👨‍💻.  
   
 
-- 🌱 I’m currently coding in Javascript and Python.  
+- 🌱 I’m currently coding in Javascript and Python👨‍💻.  
   
 
-- ❓  I am in love with coding Discord Bots, I also love helping!.
+- ❓  I am in love with coding Discord Bots, I also love helping!👨‍💻.
   
 
   
